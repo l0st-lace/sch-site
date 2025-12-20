@@ -267,3 +267,57 @@
     letter-spacing: 0.5px;
 }
 .img-card-2{background-image: url(img/card-2.png);}
+.footer {
+    background-color: #f5f6f8;
+    padding: 60px 0;
+}
+.course-info-title{
+    font-weight: 600;
+    font-size: 70px;
+    color: #1a1a1a;
+    margin-bottom: 40px;
+}
+.footer-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #939495;
+    padding: 30px 0;
+}
+.left-block{
+    display: flex;
+    align-items: center;
+}
+.course-number{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #a2a2a4;
+}
+.course-block{
+    margin-left: 60px;
+    line-height: 1.5;
+}
+.course-name{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    letter-spacing: 0.8px;
+    color: #000000;
+}
+.course-count{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    color: #92929b;
+}
+.kirs-btn{
+    cursor: pointer;
+}
+.footer-row-none{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+}
